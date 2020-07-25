@@ -106,3 +106,5 @@ C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.
 C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.dll
 C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
