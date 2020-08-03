@@ -108,3 +108,9 @@ C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.dll
 C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.pdb
 C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
 C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopultMembershipTyes.resources
+C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipTypeName.resources
+C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateMembershipTypeNames.resources
