@@ -113,3 +113,4 @@ C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMe
 C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
 C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipName.resources
 C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipNames.resources
+C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddCustomerBirthdate.resources
