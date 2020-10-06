@@ -1,20 +1,22 @@
 ﻿
-@model Vidly.ViewModels.CustomersViewModel
+@model IEnumerable<Vidly.Models.Customer>
 @{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "Customers";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
 <h2>Customers</h2>
 
 <table class=“table table-bordered table-hover”>
-
-    @foreach (var customer in Model.Customers)
-    {
-        <tr>
-            <td>
-                @Html.ActionLink(customer.Name, "Details", "Customers", new { id = customer.Id }, null)
-            </td>
-        </tr>
-    }
+    <tbody>
+        <th>Name</th>
+        <th>Discount Rate</th>
+        @foreach (var customer in Model)
+        {
+            <tr>
+                <td>@Html.ActionLink(customer.Name, "Details", "Customers", new { id = customer.Id }, null)</td>
+                <td>@customer.MembershipType.Name</td>
+            </tr>
+        }
+    </tbody>
 </table>
