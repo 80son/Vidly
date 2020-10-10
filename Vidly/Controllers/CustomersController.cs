@@ -11,7 +11,11 @@ namespace Vidly.Controllers
 {
     public class CustomersController : Controller
     {
+<<<<<<< HEAD
         private ApplicationDbContext _context;
+=======
+        public ApplicationDbContext _context;
+>>>>>>> 2c041b800ef3e43a0c1cd2a9e9b63e1fdf803415
 
         public CustomersController()
         {
@@ -21,6 +25,7 @@ namespace Vidly.Controllers
         {
             _context.Dispose();
         }
+<<<<<<< HEAD
 
         // GET: Customers
         public ActionResult Index()
@@ -28,6 +33,13 @@ namespace Vidly.Controllers
             var customer = _context.Customers.Include(c => c.MembershipType).ToList();
             
             return View(customer);
+=======
+        public ActionResult Index()
+        {
+            var customers = _context.Customers;
+
+            return View(customers);
+>>>>>>> 2c041b800ef3e43a0c1cd2a9e9b63e1fdf803415
         }
 
 

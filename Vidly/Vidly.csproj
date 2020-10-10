@@ -179,6 +179,7 @@
     <Compile Include="Migrations\202007250550212_InitialModel.Designer.cs">
       <DependentUpon>202007250550212_InitialModel.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="Migrations\202009270545523_AddCustomerSubscribedLetter.cs" />
     <Compile Include="Migrations\202009270545523_AddCustomerSubscribedLetter.Designer.cs">
       <DependentUpon>202009270545523_AddCustomerSubscribedLetter.cs</DependentUpon>
@@ -210,6 +211,31 @@
     <Compile Include="Migrations\202010040603431_PopulateGenresTable.cs" />
     <Compile Include="Migrations\202010040603431_PopulateGenresTable.Designer.cs">
       <DependentUpon>202010040603431_PopulateGenresTable.cs</DependentUpon>
+=======
+    <Compile Include="Migrations\202007250558499_AddIsSubscribedToCustomer.cs" />
+    <Compile Include="Migrations\202007250558499_AddIsSubscribedToCustomer.Designer.cs">
+      <DependentUpon>202007250558499_AddIsSubscribedToCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202007250603061_AddMembershipType.cs" />
+    <Compile Include="Migrations\202007250603061_AddMembershipType.Designer.cs">
+      <DependentUpon>202007250603061_AddMembershipType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202007250613507_PopultMembershipTyes.cs" />
+    <Compile Include="Migrations\202007250613507_PopultMembershipTyes.Designer.cs">
+      <DependentUpon>202007250613507_PopultMembershipTyes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202007270554580_ApplyAnnotationsToCustomerName.cs" />
+    <Compile Include="Migrations\202007270554580_ApplyAnnotationsToCustomerName.Designer.cs">
+      <DependentUpon>202007270554580_ApplyAnnotationsToCustomerName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202007270616416_AddMembershipTypeName.cs" />
+    <Compile Include="Migrations\202007270616416_AddMembershipTypeName.Designer.cs">
+      <DependentUpon>202007270616416_AddMembershipTypeName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202007270618006_UpdateMembershipTypeNames.cs" />
+    <Compile Include="Migrations\202007270618006_UpdateMembershipTypeNames.Designer.cs">
+      <DependentUpon>202007270618006_UpdateMembershipTypeNames.cs</DependentUpon>
+>>>>>>> 2c041b800ef3e43a0c1cd2a9e9b63e1fdf803415
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
@@ -307,6 +333,7 @@
     <EmbeddedResource Include="Migrations\202007250550212_InitialModel.resx">
       <DependentUpon>202007250550212_InitialModel.cs</DependentUpon>
     </EmbeddedResource>
+<<<<<<< HEAD
     <EmbeddedResource Include="Migrations\202009270545523_AddCustomerSubscribedLetter.resx">
       <DependentUpon>202009270545523_AddCustomerSubscribedLetter.cs</DependentUpon>
     </EmbeddedResource>
@@ -330,6 +357,25 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202010040603431_PopulateGenresTable.resx">
       <DependentUpon>202010040603431_PopulateGenresTable.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="Migrations\202007250558499_AddIsSubscribedToCustomer.resx">
+      <DependentUpon>202007250558499_AddIsSubscribedToCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202007250603061_AddMembershipType.resx">
+      <DependentUpon>202007250603061_AddMembershipType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202007250613507_PopultMembershipTyes.resx">
+      <DependentUpon>202007250613507_PopultMembershipTyes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202007270554580_ApplyAnnotationsToCustomerName.resx">
+      <DependentUpon>202007270554580_ApplyAnnotationsToCustomerName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202007270616416_AddMembershipTypeName.resx">
+      <DependentUpon>202007270616416_AddMembershipTypeName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202007270618006_UpdateMembershipTypeNames.resx">
+      <DependentUpon>202007270618006_UpdateMembershipTypeNames.cs</DependentUpon>
+>>>>>>> 2c041b800ef3e43a0c1cd2a9e9b63e1fdf803415
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
