@@ -116,3 +116,5 @@ C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.Popul
 C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddCustomerBirthdate.resources
 C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddAdditionalMovieProperties.resources
 C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenresTable.resources
+C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.MakeMovieDatesNullable.resources
+C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.ChangeGenreIdDataType.resources
