@@ -117,6 +117,7 @@ C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.Popul
 C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddCustomerBirthdate.resources
 C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddAdditionalMovieProperties.resources
 C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenresTable.resources
+<<<<<<< HEAD
 =======
 C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
 C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
@@ -125,3 +126,7 @@ C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.Apply
 C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipTypeName.resources
 C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateMembershipTypeNames.resources
 >>>>>>> 2c041b800ef3e43a0c1cd2a9e9b63e1fdf803415
+=======
+C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.MakeMovieDatesNullable.resources
+C:\Users\Daniel-Laptop\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.ChangeGenreIdDataType.resources
+>>>>>>> Section4
